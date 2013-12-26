@@ -1,6 +1,6 @@
 # Installation:
 
-Download: [the appearance file](https://raw.github.com/benjamindauer/Spacegray-Dark-Alfred-v2-Theme/master/Spacegray%20Dark.alfredappearance) by right-clicking on it and double-click on the file in Finder to install it. 
+Download [the appearance file](https://raw.github.com/benjamindauer/Spacegray-Dark-Alfred-v2-Theme/master/Spacegray%20Dark.alfredappearance) by right-clicking on it, and once it downloads, double-click on the file in Finder to install it. 
 
 Alternatively, you can execute following commands in Terminal:
 
