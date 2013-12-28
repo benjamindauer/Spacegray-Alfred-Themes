@@ -1,6 +1,6 @@
 # Spacegray Dark - Alfred v2 Theme
 
-Inspired by the lovely Sublime Text 2 [Spacegray theme](https://github.com/kkga/spacegray) by kkga, and another [Alfred theme](http://dribbble.com/shots/1357911-Spacegray-Alfred-v2-Theme) by Indrashish Ghosh. Thanks for the inspiration guys. Hope you enjoy my adaptation.
+Inspired by the lovely Sublime Text 2 [Spacegray theme](https://github.com/kkga/spacegray) by kkga, and another [Alfred theme](http://dribbble.com/shots/1357911-Spacegray-Alfred-v2-Theme) by Indrashish Ghosh. Thanks for the inspiration guys. Hope you enjoy my adaptation. Dark not your thing? Check out my [Light version](https://github.com/benjamindauer/Spacegray-Light-Alfred-v2-Theme) of the theme.
 
 ![screenshot](Alfred-Spacegray-Dark.png)
 
